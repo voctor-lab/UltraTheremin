@@ -15,6 +15,11 @@ _Para imprimir... 📦_
 1 x Arduino UNO Case (https://www.thingiverse.com/thing:846684) <br>
 1 x Ultrasonic Sensor Housing (https://www.thingiverse.com/thing:1708627) <br>
 
+### Esquema de conexiones 🔌
+
+![Esquema](https://github.com/voctor-lab/UltraTheremin/blob/main/UltraTheremin_bb.jpg)
+
+
 ### CODE 🔧
 
 _Inicialmente se ha pensado como un instrumento facil de usar y que no requiera contacto físico. Por estos motivos se utiliza el sensor de distancia por ultrasonidos y las escalas preconfiguradas_
