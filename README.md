@@ -41,6 +41,17 @@ _Software utilizado_
 * [Arduino IDE](https://www.arduino.cc/en/software/) - IDE de desarrollo oficial de ARDUINO
 
 
+### ToDo 📋
+
+_Lista de mejoras..._
+
+- Botón para cambiar de escalas incluyendo una opción de modulación analógica del sonido como el clásico theremin
+- Añadir sensor adicional para modificar el volumen
+- Incluir amplificador de señal para mejorar el volumen
+- Interface MIDI
+- Pantalla LCD para revisar escala y opciones seleccionadas
+
+
 ## Contribuyendo 🖇️
 
 Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
